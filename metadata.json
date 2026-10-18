@@ -1,0 +1,8 @@
+{
+  "name": "Remix StenoPetal - Gregg Shorthand Translator",
+  "description": "Translate uploaded text into Gregg Shorthand Diamond Jubilee edition with  serious, minimalist interface and PDF downloads. Translated text must match very accurately with Diamond Jubilee standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
